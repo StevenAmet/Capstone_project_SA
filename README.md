@@ -1,2 +1,3 @@
 # Capstone_project_SA
-Repositor for my capstone project
+Repository for my capstone project to document your approach and showcase work. 
+Step 1: Initial set up of Git and the repository.
