@@ -1,0 +1,40 @@
+bbo-capstone/
+│
+├── README.md
+│
+├── queries/
+│   ├── round_1_queries.md
+│   ├── round_2_queries.md
+│   ├── round_3_queries.md
+│   ├── round_4_queries.md
+│   └── round_5_queries.md
+│
+├── results/
+│   ├── round_1_outputs.csv
+│   ├── round_2_outputs.csv
+│   ├── round_3_outputs.csv
+│   ├── round_4_outputs.csv
+│   └── round_5_outputs.csv
+│
+├── notebooks/
+│   ├── 01_exploration.ipynb
+│   ├── 02_response_analysis.ipynb
+│   ├── 03_surrogate_modelling.ipynb
+│   ├── 04_query_strategy_refinement.ipynb
+│   └── 05_visualisation_and_diagnostics.ipynb
+│
+├── utils/
+│   ├── scaling.py
+│   ├── distance_metrics.py
+│   ├── svm_helpers.py
+│   └── surrogate_helpers.py
+│
+├── reflections/
+│   ├── module_14_reflection.md
+│   ├── module_15_reflection.md
+│   └── module_16_reflection.md
+│
+└── docs/
+    ├── project_rationale.md
+    ├── optimisation_tradeoffs.md
+    └── limitations_and_next_steps.md
